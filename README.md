@@ -18,7 +18,6 @@ Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los sig
     
     ```
     sudo su
-    
     ```
     
 2.  Instalar los siguientes repositorios:
