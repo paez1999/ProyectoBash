@@ -56,7 +56,7 @@ Sigue estas instrucciones para utilizar el proyecto:
     
 Introduce tu nombre
 
-3.  Selecciona la opción que desees del menú principal.
+2.  Selecciona la opción que desees del menú principal.
    
 ![enter image description here](https://i.imgur.com/rWssUw4.png)
 
