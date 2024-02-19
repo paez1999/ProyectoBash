@@ -87,9 +87,9 @@ Al seleccionar la opción "Fichero", puedes seleccionar la carpeta dentro de la 
 4. Ingresar Texto
 Al seleccionar la opción "Ingresar Texto", debes seleccionar la carpeta dentro de la cual se encuentra el fichero al cuál le quieres agregar un texto. Después, seleccionas este mismo fichero y escribes lo que desees dentro de él.
 
-[enter image description here](https://i.imgur.com/LYNsPZ8.png)
+![i](https://i.imgur.com/LYNsPZ8.png)
 
-6. Salir
+5. Salir
 Al seleccionar la opción "Salir", sales del script y vuelves a la terminal de linux.
  
 ## Contribución
