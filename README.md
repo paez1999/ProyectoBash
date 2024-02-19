@@ -1,4 +1,3 @@
-
 # Proyecto
 
 
@@ -10,9 +9,9 @@ Script de Menú Interactivo en Bash
 # Descripcion
 Este proyecto es un script interactivo en bash que proporciona a los usuarios un menú para realizar diversas acciones, como crear carpetas, archivos, ingresar texto y más.
 
-## Instalacion 
+## Instalación
 
-Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los siguientes coamandos.
+Para instalar y configurar este proyecto, sigue estos pasos: Copia y pega los siguientes comandos.
 
 1.  Ingresar a modo administrador:
     
@@ -46,55 +45,58 @@ Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los sig
     ```
     
 
-
 ## Uso
 
-Siga estas instrucciones para utilizar el proyecto:
+Sigue estas instrucciones para utilizar el proyecto:
 
-1.  Ejecute el script en su terminal:
+1.  Ejecuta el script en tu terminal:
     
-    ```
+    
     bash script.sh
-    ```
-Introduce tu nombre y presiona enter.
-
-2.  Seleccione  la opcion deseada en el menu
+    
+2.  Selecciona la opción que desees del menú principal.
    
 ![enter image description here](https://i.imgur.com/rWssUw4.png)
 
 1. Crear carpeta
-Introduce el nombre que deseas ponerle a tu carpeta nueva, observa la 
-lista de carpetas preexistentes y asegurate que no se repita el nombre
+Al seleccionar la opción "Crear carpeta" deberás introducir el nombre que desees ponerle a tu carpeta nueva, observando la 
+lista de carpetas preexistentes y asegurándote de que no se repita el nombre.
 
 ![enter image description here](https://i.imgur.com/RCxHi4a.png)
   
 2. ZOO
-una vez selecciona la opcion Zoo, selecciona una de las opciones. En caso de seleccionar el invocar a un animal , elige cual quieres y dile que quieres que diga.
 
-Si seleccionas la opcion de acuario disfruta de los peces cuanto quieras y luego presion la tecla "q" para salir de el .
+Una vez seleccionada la opción "Zoo", se abre un segundo menú donde puedes seleccionar nuevas opciones.
+En caso de seleccionar "Invocar a un animal", se abre un tercer menú donde puedes escoger un animal y el texto que quieres que este mismo diga.
 
-Si necesitas inspiracion en la vida presiona la opcion generar frases al azar.Una vez termines presiona la tecla 4 para salir de el zoologico.
+En caso de seleccionar la opción "Acuario" disfruta de los peces cuanto quieras, podiendo presionar la tecla "q" para salir de la animación y volver al menú anterior.
+
+Si necesitas inspiración en la vida presiona la opción "generar frases al azar".
+
+Una vez termines puedes presionar la tecla 4 para salir de el zoológico.
 
 ![enter image description here](https://i.imgur.com/9gqZPch.png)
 
 3. Fichero
-Selecciona la carpeta dentro de la cual deseas crear el fichero y luego otorgale un nombre a tu fichero nuevo, asegurate que no sea el mismo nombre que un fichero preexistente en esa carpeta
+Al seleccionar la opción "Fichero", puedes seleccionar la carpeta dentro de la cuál deseas crear tu fichero y luego otorgarle un nombre a este, asegurándote de que no sea el mismo nombre que un fichero preexistente en esa carpeta.
 
 ![enter image description here](https://i.imgur.com/jytbiJ0.png)
 
 4. Ingresar Texto
-Seleccion la carpeta dentro de la cual se encuentra el fichero al cual le quieres agregar un texto, luego selecciona el fichero en el cual deseas escribir y escribe lo que desees.![enter image description here](https://i.imgur.com/LYNsPZ8.png)5. Salir
-Una vez termines simplemente presiona el 5 para salir de el script y volver a la terminal de linux.
+Al seleccionar la opción "Ingresar Texto", debes seleccionar la carpeta dentro de la cual se encuentra el fichero al cuál le quieres agregar un texto. Después, seleccionas este mismo fichero y escribes lo que desees dentro de él. [enter image description here](https://i.imgur.com/LYNsPZ8.png)
+
+5. Salir
+Al seleccionar la opción "Salir", sales del script y vuelves a la terminal de linux.
  
-## Contribucion
+## Contribución
 
 Las contribuciones son bienvenidas. Por favor, siga estas pautas:
 
 -   Para cambios importantes, abra primero un problema para discutir lo que le gustaría cambiar.
 ## Licencias
-Licencia de codigo abierto.
+Licencia de código abierto.
 
-#### Informacion Adicional
+#### Información Adicional
 
 Para obtener información o recursos adicionales, consulte lo siguiente:
 
@@ -108,4 +110,3 @@ Para cualquier pregunta o consulta, no dude en ponerse en contacto con los desar
 
 -   Desarrolladores: Hans, Juan, Sandra.
 -   Correo electrónico: [[email protected]](https://stackedit.io/cdn-cgi/l/email-protection#fd959c938ea29c8f9c889e92a2cfcdcccfbd959289909c9491d39e9290),[email juan],[email sandra]
-
