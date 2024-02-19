@@ -31,9 +31,9 @@ Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los sig
     ```
     
     ```
-   sudo add-apt-repository ppa:ytvwld/asciiquarium
-   sudo apt update
-   sudo apt install asciiquarium
+    sudo add-apt-repository ppa:ytvwld/asciiquarium
+    sudo apt update
+    sudo apt install asciiquarium
     ```
 
     ```
