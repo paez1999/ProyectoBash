@@ -54,7 +54,9 @@ Sigue estas instrucciones para utilizar el proyecto:
     
     bash script.sh
     
-2.  Selecciona la opción que desees del menú principal.
+Introduce tu nombre
+
+3.  Selecciona la opción que desees del menú principal.
    
 ![enter image description here](https://i.imgur.com/rWssUw4.png)
 
