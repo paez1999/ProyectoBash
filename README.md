@@ -25,29 +25,25 @@ Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los sig
     
     ```
     sudo apt-get install cowsay
-    
     ```
     
     ```
     sudo apt install figlet 
-    
     ```
     
     ```
    sudo add-apt-repository ppa:ytvwld/asciiquarium
    sudo apt update
    sudo apt install asciiquarium
-    
     ```
-    
+
     ```
     sudo apt install fortune
-    
     ```
+    
     
     ```
     sudo apt install lolcat
-    
     ```
     
 
