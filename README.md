@@ -29,48 +29,28 @@ Para instalar y configurar este proyecto, siga estos pasos: Copia y pega los sig
     ```
     
     ```
-    sudo apt install figlet toilet
+    sudo apt install figlet 
     
     ```
     
     ```
-    sudo apt-get install ruby
-    wget https://github.com/busyloop/lolcat/archive/master.zip
-    unzip master.zip
-    cd lolcat-master/bin
-    gem install lolcat
+   sudo add-apt-repository ppa:ytvwld/asciiquarium
+   sudo apt update
+   sudo apt install asciiquarium
     
     ```
     
     ```
-    sudo apt install libcurses-perl git build-essential
+    sudo apt install fortune
     
     ```
     
     ```
-    cpan
-    install CPAN
-    reload cpan
-    exit
+    sudo apt install lolcat
     
     ```
     
-3.  Instalar dependencias:
-    
-    ```
-    sudo cpan Term::Animation
-    
-    ```
-    
-    ```
-    git clone https://github.com/cmatsuoka/asciiquarium.git
-    
-    ```
-    
-    ```
-    sudo mv asciiquarium/asciiquarium /usr/local/bin
-    
-    ```
+
 
 ## Uso
 
@@ -81,6 +61,8 @@ Siga estas instrucciones para utilizar el proyecto:
     ```
     bash script.sh
     ```
+Introduce tu nombre y presiona enter.
+
 2.  Seleccione  la opcion deseada en el menu
    
 ![enter image description here](https://i.imgur.com/rWssUw4.png)
